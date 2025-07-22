@@ -31,7 +31,7 @@ Nomzodning Reactjs, Code structure, Autentifikatsiya, Data bilan ishlash bo‘yi
 
 2. **Fetch:**
 
-    - `GET /reports/reports/materials` queryda `sort=name`
+    - `GET /reports/reports/materials` queryda `sort=name` `&start=` shu oyning boshi `&end=` shu oyning oxiri
 
 3. **Table:**
 
